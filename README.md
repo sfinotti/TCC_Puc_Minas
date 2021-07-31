@@ -6,7 +6,6 @@
 - [Video: Apresentação resumida do projeto](https://youtu.be/wU1AMn5kFoQ)
 - [Texto: TCC - Ensaios sobre viabilidade de uso de ML em eleições para vereador](https://github.com/sfinotti/TCC_Puc_Minas/blob/main/TCC_big_data_silvio_finotti_final.pdf)
 - [Canvas: Workflow do TCC](https://github.com/sfinotti/TCC_Puc_Minas/blob/main/TCC_Workflow_Canvas.pdf)
-- 
 
 
 ### Descrição dos arquivos:
